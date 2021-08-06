@@ -27,6 +27,7 @@ you must have cuda
 7. If you want use c++ 11 then  <code>-DCXX_VERSION=11 </code> else <code> -DCXX_VERSION=1x </code>   
 
 
+
 ## use your images
 use sample folder
 
